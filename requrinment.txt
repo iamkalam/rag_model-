@@ -3,3 +3,4 @@ langchain_core
 langchain_community
 pypdf 
 pymupdf
+langchain-text-splitters
